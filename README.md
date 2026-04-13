@@ -1,3 +1,5 @@
+[![Runs on Jupyter4NFDI](https://github.com/apawlik/Comparing-Keyword-Importance-Across-Texts/actions/workflows/jupyter4nfdi_ready_check.yml/badge.svg)](https://github.com/apawlik/Comparing-Keyword-Importance-Across-Texts/actions/workflows/jupyter4nfdi_ready_check.yml)
+
 # Comparing Keyword Importance Across Texts
 
 ## Description
